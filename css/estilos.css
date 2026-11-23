@@ -106,3 +106,34 @@ nav a:hover {
     border-radius: 12px;
     margin: 20px 0;
 }
+
+
+section h3 {
+    color: #245c45;
+    margin-top: 22px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+section p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+section ul {
+    margin: 10px 0 20px 25px;
+}
+
+section li {
+    margin-bottom: 8px;
+}
+
+
+section a {
+    color: #26734d;
+    font-weight: bold;
+}
+
+section a:hover {
+    color: #173f32;
+}
