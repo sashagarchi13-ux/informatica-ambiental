@@ -140,3 +140,11 @@ section a {
 section a:hover {
     color: #173f32;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    scroll-margin-top: 90px;
+}
